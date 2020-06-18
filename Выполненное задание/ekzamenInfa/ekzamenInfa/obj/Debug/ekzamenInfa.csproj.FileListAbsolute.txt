@@ -1,0 +1,17 @@
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa.csprojAssemblyReference.cache
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\MainWindow.g.cs
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\xInArray.g.cs
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\App.g.cs
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa_MarkupCompile.cache
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa_MarkupCompile.lref
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\bin\Debug\ekzamenInfa.exe.config
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\bin\Debug\ekzamenInfa.exe
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\bin\Debug\ekzamenInfa.pdb
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\MainWindow.baml
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\xInArray.baml
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa.g.resources
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa.Properties.Resources.resources
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa.csproj.GenerateResource.cache
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa.csproj.CoreCompileInputs.cache
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa.exe
+C:\Users\Ganer\source\repos\ekzamenInfa\ekzamenInfa\obj\Debug\ekzamenInfa.pdb

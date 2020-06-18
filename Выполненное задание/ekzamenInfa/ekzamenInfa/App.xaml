@@ -1,0 +1,9 @@
+﻿<Application x:Class="ekzamenInfa.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ekzamenInfa"
+             StartupUri="xInArray.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
